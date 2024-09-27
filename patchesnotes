@@ -2,42 +2,42 @@
   {
     "version": "1.0.14",
     "notes": [
-      "Ein Fehler wurde behoben, bei dem die Patch Notes nach einem Update nicht automatisch geöffnet wurden."
+      "- Ein Fehler wurde behoben, bei dem die Patch Notes nach einem Update nicht automatisch geöffnet wurden."
     ]
   },
   {
     "version": "1.0.13",
     "notes": [
-      "Verbesserte Navigation: Nach dem Speichern eines Ausbildungsnachweises kehrt die App nun direkt zur Übersicht der Nachweise zurück, anstatt zum Home-Screen zu springen."
+      "- Verbesserte Navigation: Nach dem Speichern eines Ausbildungsnachweises kehrt die App nun direkt zur Übersicht der Nachweise zurück, anstatt zum Home-Screen zu springen."
     ]
   },
   {
     "version": "1.0.12",
     "notes": [
-      "Datumsfehler behoben: Ein Problem, bei dem das Datum im Ausbildungsnachweis falsch angezeigt wurde, wurde behoben.",
-      "App-Größe reduziert: Die Größe der App wurde optimiert, um weniger Speicherplatz zu benötigen."
+      "- Datumsfehler behoben: Ein Problem, bei dem das Datum im Ausbildungsnachweis falsch angezeigt wurde, wurde behoben.",
+      "- App-Größe reduziert: Die Größe der App wurde optimiert, um weniger Speicherplatz zu benötigen."
     ]
   },
   {
     "version": "1.0.11",
     "notes": [
-      "App-Größe reduziert: Die Größe der App wurde optimiert, um weniger Speicherplatz zu benötigen."
+      "- App-Größe reduziert: Die Größe der App wurde optimiert, um weniger Speicherplatz zu benötigen."
     ]
   },
   {
     "version": "1.0.10",
     "notes": [
-      "Stundenspeicherung in Nachweisen behoben: Die Stunden in Ausbildungsnachweisen werden jetzt korrekt gespeichert.",
-      "Rückkehrfehler behoben: Das Problem, bei häufigem Zurückgehen hängen zu bleiben, wurde behoben."
+      "- Stundenspeicherung in Nachweisen behoben: Die Stunden in Ausbildungsnachweisen werden jetzt korrekt gespeichert.",
+      "- Rückkehrfehler behoben: Das Problem, bei häufigem Zurückgehen hängen zu bleiben, wurde behoben."
     ]
   },
   {
     "version": "1.0.9",
     "notes": [
-      "Offline-Funktion: Azubigo ist jetzt vollständig offline nutzbar, keine WLAN-Verbindung erforderlich.",
-      "Löschfunktion: Ausbildungsnachweise können ab sofort bei Bedarf gelöscht werden.",
-      "Stunden bleiben bestehen: Die eingegebenen Stunden in den Nachweisen bleiben dauerhaft gespeichert.",
-      "Nachweise bleiben gespeichert: Ausbildungsnachweise bleiben jetzt auch nach dem Schließen der App erhalten."
+      "- Offline-Funktion: Azubigo ist jetzt vollständig offline nutzbar, keine WLAN-Verbindung erforderlich.",
+      "- Löschfunktion: Ausbildungsnachweise können ab sofort bei Bedarf gelöscht werden.",
+      "- Stunden bleiben bestehen: Die eingegebenen Stunden in den Nachweisen bleiben dauerhaft gespeichert.",
+      "-Nachweise bleiben gespeichert: Ausbildungsnachweise bleiben jetzt auch nach dem Schließen der App erhalten."
     ]
   }
 ]
